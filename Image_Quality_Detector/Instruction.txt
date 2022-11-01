@@ -1,1 +1,3 @@
-
+Open part-1
+generate 1000 images 
+when traning the NN
