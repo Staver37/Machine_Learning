@@ -1,3 +1,4 @@
 Open part-1
-generate 1000 images 
-when traning the NN
+generate  images 
+Open part 6 - 7
+traning the NN
